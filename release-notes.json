@@ -1,0 +1,45 @@
+{
+    "schemaVersion": 1,
+    "applicationId": "jp.pipun.prepaidcardmanager",
+    "publicFeedUrl": "https://pipun-apps.github.io/prepaid-card-manager-privacy/release-notes.json",
+    "releases": {
+        "55": {
+            "versionName": "2.0.2",
+            "locales": {
+                "ja": {
+                    "highlights": [
+                        "\u80cc\u9762\u30ab\u30e1\u30e9\u3067\u306e\u64ae\u5f71\u3068\u3001\u4e2d\u65ad\u5f8c\u306e\u5fa9\u5e30\u3092\u6539\u5584\u3057\u307e\u3057\u305f\u3002",
+                        "\u64ae\u5f71\u753b\u50cf\u3092\u7aef\u672b\u306b\u3082\u4fdd\u5b58\u3059\u308b\u4efb\u610f\u8a2d\u5b9a\u3092\u8ffd\u52a0\u3057\u307e\u3057\u305f\u3002\u521d\u671f\u72b6\u614b\u306fOFF\u3067\u3001\u540c\u610f\u3057\u305f\u5834\u5408\u306e\u307f\u6709\u52b9\u306b\u306a\u308a\u307e\u3059\u3002",
+                        "OCR\u753b\u50cf\u306e\u62e1\u5927\u3001Visa e\u30ae\u30d5\u30c8\u5c02\u7528\u88dc\u6b63\u3001\u4e00\u62ecOCR\u306e\u78ba\u8a8d\u3092\u6539\u5584\u3057\u307e\u3057\u305f\u3002",
+                        "\u7ba1\u7406\u540d\u3092\u4efb\u610f\u9805\u76ee\u306b\u3057\u3001\u82f1\u8a9e\u8a2d\u5b9a\u3067\u306eOCR\u5019\u88dc\u540d\u3092\u4fee\u6b63\u3057\u307e\u3057\u305f\u3002"
+                    ]
+                },
+                "en": {
+                    "highlights": [
+                        "Improved rear-camera capture and recovery after interruptions.",
+                        "Added optional on-device saving of captured images. It is off by default and requires consent.",
+                        "Improved OCR image zoom, Visa eGift correction, and batch OCR review.",
+                        "Made display names optional and fixed English OCR candidate names."
+                    ]
+                }
+            }
+        },
+        "56": {
+            "versionName": "2.0.3",
+            "locales": {
+                "ja": {
+                    "highlights": [
+                        "\u30a2\u30d7\u30ea\u306e\u8d77\u52d5\u6642\u306b\u3001Google Play\u3067\u5229\u7528\u53ef\u80fd\u306a\u66f4\u65b0\u3092\u78ba\u8a8d\u3067\u304d\u308b\u3088\u3046\u306b\u306a\u308a\u307e\u3057\u305f\u3002",
+                        "\u66f4\u65b0\u5f8c\u306e\u521d\u56de\u8d77\u52d5\u3067\u4e3b\u306a\u5909\u66f4\u5185\u5bb9\u3092\u78ba\u8a8d\u3067\u304d\u3001\u8a2d\u5b9a\u753b\u9762\u306b\u306f\u73fe\u5728\u306e\u30d0\u30fc\u30b8\u30e7\u30f3\u304c\u8868\u793a\u3055\u308c\u307e\u3059\u3002"
+                    ]
+                },
+                "en": {
+                    "highlights": [
+                        "The app can now check Google Play for an available update when it starts.",
+                        "After updating, the first launch shows the main changes, and Settings shows the installed version."
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -44,6 +44,21 @@
                     ]
                 }
             }
+        },
+        "57": {
+            "versionName": "2.0.4",
+            "locales": {
+                "ja": {
+                    "highlights": [
+                        "\u5916\u90e8\u30ea\u30f3\u30af\u307e\u308f\u308a\u306e\u52d5\u4f5c\u30fb\u6848\u5185\u3092\u6539\u5584\u3057\u307e\u3057\u305f\u3002"
+                    ]
+                },
+                "en": {
+                    "highlights": [
+                        "Improved external-link behavior and guidance."
+                    ]
+                }
+            }
         }
     }
 }
